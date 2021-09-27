@@ -1,0 +1,40 @@
+a{
+    color: green;
+}
+
+h4{
+    text-align: center
+}
+
+h1{
+    color: red
+}
+
+figure{
+    text-align: center;
+}
+
+.header{
+    flex-direction: column;
+    font-size: medium;
+    flex-wrap: wrap;
+    
+}
+
+.vodafone{
+    background-color: rgba(216, 18, 18, 0.993);
+    text-align: center;
+    font-size: 22px;
+}
+
+.kiiv{
+    background-color: rgb(44, 159, 204);
+    text-align: center;
+    font-size: 22px;
+}
+
+.life{
+    text-align: center;
+    font-size: 22px;
+    background-color: rgb(253, 249, 17);
+}
